@@ -1,0 +1,19 @@
+{
+    "name": "company/test",
+    "description": "Test is a pakage",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arslan Zia",
+            "email": "arslan@company.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "company\\test\\": "src/"
+        }
+    },
+    "require": {}
+}
