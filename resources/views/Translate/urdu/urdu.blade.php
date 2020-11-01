@@ -29,11 +29,11 @@
     
 </select>
 
-<div class="links">
+<!-- <div class="links">
                     <a href="http://127.0.0.1:8000/contact/en">English</a>
                     <a href="http://127.0.0.1:8000/contact/ud">urdu</a>
                    
-                </div>
+                </div> -->
 
 </body>
 </html>
